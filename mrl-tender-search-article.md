@@ -2,7 +2,7 @@
 
 *I dropped 75% of every vector in a procurement search system. Here's why the cost fell sharply, why I expect relevance to hold up, and how I'm checking.*
 
----
+--
 
 When you start building semantic search, embedding dimensions seem like a detail. You pick a model, use the size it gives you, and move on. That changes once the corpus grows. Every document carries a vector, every vector takes memory, and in most vector databases memory is what you pay for.
 
